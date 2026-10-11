@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{3.4 Inherently explainable methods}{5}{0}{1}
+\beamer@sectionintoc {2}{3.5 Other tasks}{8}{0}{2}
+\beamer@sectionintoc {3}{4 Explanation evaluation}{10}{0}{3}
+\beamer@sectionintoc {4}{5--6 Tools and datasets}{15}{0}{4}
+\beamer@sectionintoc {5}{7--8 Discussion and conclusion}{17}{0}{5}
